@@ -6,12 +6,16 @@
 
 The tools you use are the continuation of you. The notebook you write your ideas
 in, the guitar you play to express your emotions through, the bycicle you pedal
-to get to places, and the OS you use to interact with technologies. Be
-opinionated about the tools you use. Be intentional. Be open. And help others by
-being yourself and sharing your uniqueness with the world. Craft your tools with
-care, but there is no shame in using what others have built: copy, modify,
-combine, integrate and give back to the community. Through reflecting others one
-shall understand oneself.
+to get to places, and the OS you use to interact with technologies.
+
+Being opinionated about the tools one uses. Being intentional. Being open and
+helping others by sharing ones uniqueness with the world. Crafting tools with
+care, feeling no shame in using what others have built: copying, modifying,
+combining, integrating and giving back to the community.\
+The Beauty of FOSS.
+
+"Through reflecting others one shall understand oneself." - (C) Someone,
+probably
 
 Hi, I'm optizone, I love open source, computers and art. I believe that
 technologies should be an **intentional** extension of the mind and body - they
