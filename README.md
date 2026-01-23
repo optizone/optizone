@@ -5,8 +5,8 @@
 ```
 
 The tools you use are the continuation of you. The notebook you write your ideas
-in, the guitar you play to express your emotions through, the bycicle you pedal
-to get to places, and the OS you use to interact with technologies.
+in, the bycicle you pedal to get to places, the OS you use to interact with the
+computer.
 
 Being opinionated about the tools one uses. Being intentional. Being open and
 helping others by sharing ones uniqueness with the world. Crafting tools with
