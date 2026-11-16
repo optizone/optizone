@@ -1,27 +1,15 @@
-```
+```text
 ░█▀█░█▀█░▀█▀░▀█▀░▀▀█░█▀█░█▀█░█▀▀
 ░█░█░█▀▀░░█░░░█░░▄▀░░█░█░█░█░█▀▀
 ░▀▀▀░▀░░░░▀░░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀
 ```
 
-The tools you use are the continuation of you. The notebook you write your ideas
-in, the bycicle you pedal to get to places, the OS you use to interact with the
-computer.
+> _Information is the One True God, which to worship we share._
 
-Being opinionated about the tools one uses. Being intentional. Being open and
-helping others by sharing ones uniqueness with the world. Crafting tools with
-care, feeling no shame in using what others have built: copying, modifying,
-combining, integrating and giving back to the community.\
-The Beauty of FOSS.
+Hi, I'm optizone, I love computers, art and making things. I believe that path
+to a better future lies in sharing our work with others. Open source everything:
+programs, phones, cars, blenders, printers... I want a future where we focus on
+making each others lifes and our tools better, not on profit.
 
-"Through reflecting others one shall understand oneself." - (C) Someone,
-probably
-
-Hi, I'm optizone, I love open source, computers and art. I believe that
-technologies should be an **intentional** extension of the mind and body - they
-should not steal ones attention to sell it for profit. I believe that internet
-should be a place to connect with people, not just a hub of endless
-algorithmicly curated content. I'm creating tools for myself and sharing them
-with the world. Hope you will find something usefull here :3
-
-This profile is a loveletter to the open source community.
+I'm creating tools for myself and sharing them with the world. Hope you will
+find something usefull here :3
